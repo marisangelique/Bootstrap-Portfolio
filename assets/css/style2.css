@@ -1,0 +1,98 @@
+.logo{
+    margin-left: 30px;
+}
+
+h3{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: -1px;
+    padding-bottom: 10px;
+    border-bottom-style: ridge; 
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.about{
+    background-color: #99a6b2;
+    margin-top: 30px;
+    padding: 40px;
+    opacity: .7;
+    border-style: ridge;
+}
+
+.resume{
+    color: black;
+    margin-left: -16px;
+}
+
+.portfolio{
+    background: #99a6b2;
+    margin-top: 20px;
+    border-style: ridge;
+    opacity: .9;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom-style: ridge;
+
+}
+
+.label{
+    background-color: #99a6b2;
+}
+
+.contact{
+    background-color: #99a6b2;
+    margin-top: 20px;
+    border-style: ridge;
+    padding: 20px;
+}
+
+.form-group{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.submit{
+    border-style: ridge;
+}
+
+.project{
+    margin-top: 20px;
+}
+
+.art{
+    position: relative;
+    background-color: #99a6b2;
+    margin-top: 20px;
+    border-style: ridge;
+}
+
+.artBorder{
+    margin-left: 3px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    position: relative;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.music{
+    background-color: #99a6b2;
+    border-style: ridge;
+    margin-top: 40px;
+}
+
+
+
+
+
