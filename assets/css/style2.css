@@ -96,14 +96,12 @@ h5{
     margin-top: 40px;
 }
 
-.contactPage{
-    margin-top: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
-}
-
 .contactMe{
+    color: black;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
 
+.contactPage{
+    margin: 20px 40px 0px 40px;
+}
